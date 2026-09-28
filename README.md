@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="docs/images/banner.png" alt="찍밥 배너" width="100%">
+
+<br>
+  
 # 찍밥 · JjikBap
 
 **"밥 먹은 것을 찍다"** — 사진 한 장, 문장 한 줄로 끝나는 AI 식단 기록 앱
@@ -18,9 +22,9 @@
 
 [소개](#-소개) · [미리보기](#-미리보기) · [AI 파이프라인](#-ai-파이프라인) · [기술 스택](#-기술-스택) · [실행 방법](#-실행-방법) · [트러블슈팅](#-트러블슈팅)
 
-<br>
 
-<img src="docs/images/banner.png" alt="찍밥 배너" width="100%">
+
+
 
 </div>
 
