@@ -5,8 +5,12 @@
 음식 사진을 찍거나 "제육이랑 김치찌개 먹었어"처럼 문장으로 입력하면
 AI가 음식을 인식해 칼로리·탄단지를 기록하고, 식단 점수와 함께 다음 메뉴를 추천하는 식단 관리 앱입니다.
 
-<!-- TODO: 대표 스크린샷 / 시연 GIF (회의자료 251117 '앱 실행영상.mp4'를 GIF로 변환해 docs/images/에 넣기) -->
-<!-- <p align="center"><img src="docs/images/demo.gif" width="280"></p> -->
+<p align="center">
+  <img src="docs/images/analysis.jpg" width="200" alt="음식 분석 결과">
+  <img src="docs/images/diet_score.jpg" width="200" alt="식단 점수">
+  <img src="docs/images/gallery.jpg" width="200" alt="식단 기록 갤러리">
+  <img src="docs/images/recommend.jpg" width="200" alt="맞춤 메뉴 추천">
+</p>
 
 | 항목 | 내용 |
 |---|---|
@@ -57,6 +61,16 @@ AI가 음식을 인식해 칼로리·탄단지를 기록하고, 식단 점수와
 | **주변 음식점** | 추천 메뉴를 파는 주변 식당을 지도(WebView)에서 검색 |
 | **커뮤니티** | 음식 사진 게시글 작성·조회 |
 | **계정·알림** | 회원가입/로그인, Google 로그인, 식사 시간 알림(Android) |
+
+## 화면
+
+| 로그인 | 문장으로 입력 → 음식 후보 | 영양 분석 결과 | 음식 평가 |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/images/login.jpg" width="190"> | <img src="docs/images/text_candidates.jpg" width="190"> | <img src="docs/images/analysis.jpg" width="190"> | <img src="docs/images/rating.jpg" width="190"> |
+| **식단 점수 · 일별 추이** | **기록 갤러리** | **추천 가격대 설정** | **맞춤 추천 (추천 이유)** |
+| <img src="docs/images/diet_score.jpg" width="190"> | <img src="docs/images/gallery.jpg" width="190"> | <img src="docs/images/price_range.jpg" width="190"> | <img src="docs/images/recommend.jpg" width="190"> |
+
+> "점심에 제육볶음 먹었어" 입력 → 음식 후보(확률) 선택 → 영양 정보 자동 입력 → 별점 평가 후 저장 → 기록·점수·추천에 반영
 
 ## AI 파이프라인
 

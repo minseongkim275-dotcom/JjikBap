@@ -1245,10 +1245,12 @@ class _DashboardScreenState extends State<DashboardScreen> {
                     ),
                   ),
                   const SizedBox(height: 20),
-                  Row(
+                  // 좁은 화면에서도 넘치지 않도록 줄바꿈 허용
+                  Wrap(
+                    spacing: 8,
+                    runSpacing: 8,
                     children: [
                       _buildMiniChip('🍽️ 균형잡힌 식단'),
-                      const SizedBox(width: 8),
                       _buildMiniChip('📊 영양 분석'),
                     ],
                   ),
