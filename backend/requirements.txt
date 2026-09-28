@@ -1,0 +1,16 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+sqlalchemy==2.0.25
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# AI/ML 관련 패키지
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=10.0.0
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+
+# NER 텍스트 분석 관련 패키지
+transformers>=4.30.0
+pandas>=2.0.0

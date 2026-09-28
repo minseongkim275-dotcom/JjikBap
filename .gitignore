@@ -1,0 +1,28 @@
+# OS / IDE
+.DS_Store
+.localized
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+
+# ---------- backend ----------
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# 실행 중 생성되는 데이터 (사용자 계정/기록 포함 → 절대 커밋 금지)
+backend/*.db
+backend/uploads/
+
+# 100MB 초과 모델 → GitHub Releases에서 내려받기 (README 참고)
+backend/app/ml_models/food_classifier.pt
+
+# ---------- frontend ----------
+# (Flutter 기본 항목은 frontend/.gitignore 에 있음)
+frontend/android/local.properties
+
+# 배포 서버 주소 (비공개) — dart_defines.example.json 을 복사해서 사용
+frontend/dart_defines.json

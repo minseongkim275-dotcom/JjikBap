@@ -1,0 +1,6202 @@
+{
+  "가자미구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "개불": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "광어회": {
+    "base_price": 30000,
+    "min_price": 27000,
+    "max_price": 33000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "나주곰탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "낙지탕탕이": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "낙지호롱": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "내장볶음": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "대구뽈찜": {
+    "base_price": 35000,
+    "min_price": 31500,
+    "max_price": 38500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "대구탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "대하구이": {
+    "base_price": 25000,
+    "min_price": 22500,
+    "max_price": 27500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "대하찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "막회": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "멍게(활)": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "멍게비빔밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "물갈비": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "물회": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "반계탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "북어찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "산낙지회": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소라숙회": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "술국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "아바이순대": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "알내장탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "어탕국수": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "얼큰황태우거지탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오징어회": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "장어탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "장어튀김": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초계국수": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초계탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "추어만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "추어전": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "추어전골": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "추어칼국수": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "추어튀김": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해신탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해천탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태국밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태닭개장": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태닭곰탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태떡국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태만두국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태미역국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태부대찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태육개장": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태전골": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황태콩나물해장국": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "가라아케": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "가이 팟 퐁 커리": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "가지만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "갈릭난": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감바스": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자그라탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "건두부볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마그라탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고르곤졸라피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "규동": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치나베": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "까르보나라파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "까르보네피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "깐쇼새우": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꽃빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꿍 팟 퐁 커리": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꿔바로우": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "나가사끼짬뽕": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "나시고랭볶음밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "나쵸": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "나폴리피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "난자완스": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "날치알크림파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "냉라멘": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭고기쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돈부리덮밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돈코츠라멘": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돌체피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "동파육": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "또띠아피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "똠얌꿍": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "똠얌꿍쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "라조기": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "로스카츠(등심)": {
+    "base_price": 13000,
+    "min_price": 11700,
+    "max_price": 14300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "로제리조또": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "로제파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "루꼴라피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마라롱샤": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마라빤": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마라살꼬치": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마라샹궈": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마라쇼룽샤": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마라쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마라탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마르게리따피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마살라커리": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "매운해물쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "맥앤치즈": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "메밀소바": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "멘보샤": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "명란크림파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "미소라멘": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "밀푀유나베": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바질크림파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "버섯리조또": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "버터난": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "베이컨크림파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "베트남식 볶음면": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "볶음쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "볼로네제토마토파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "봉골레파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "부타동": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "분짜": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불고기쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "비스마르크피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "빠네로제파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "빠네크림파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "사천볶음쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "사천탕수육": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "삼겹살스테이크": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우로제파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우샤오롱바오": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우오일파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우크림파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우토마토스파게티": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "샤오롱바오": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소갈비살꼬지": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소고기부리또": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소고기퀘사디아": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소고기타코": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우(쉬림프)부리또": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소곱창쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소대창쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소유라멘": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소힘줄(스지) 쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "시오라멘": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "시카고피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쏨땀": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "아라비아따파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "알리오올리오파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양갈비살꼬치": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양꼬치": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양장피": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양지쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "어니언베이컨피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "에비(텐)동": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "에비카츠": {
+    "base_price": 13000,
+    "min_price": 11700,
+    "max_price": 14300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "연어포케": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오일파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오코노미야끼": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우삼겹커리": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우삼겹팟타이": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우육면": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "유린기": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "유산슬": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "중화냉면": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "중화볶음면": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "짜조": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "짬뽕 쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "짬뽕차돌쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "차돌양지쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "차슈동": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "차슈라멘": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "차슈바오": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "찹스테이크": {
+    "base_price": 25000,
+    "min_price": 22500,
+    "max_price": 27500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "춘권": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨부리또": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨커리": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨퀘사디아": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨타코": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨파히타": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨포케": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카레우동": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카이센동": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카츠나베": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카츠동": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림리조또": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림새우": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "타코야끼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "타코와사비": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "탄두리치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "탄탄멘": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "토르티야": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "토마토계란볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "토마토리조또": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "튀김꽃빵": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "팔보채": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "팟타이": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "푸팟퐁커리": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "풍기크림파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "풍기피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "플레인난": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "피쉬볼": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "하와이안피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해물누룽지탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해물리조또": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해물쌀국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해산물팟타이": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "훈제연어덮밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "히레카츠(안심)": {
+    "base_price": 13000,
+    "min_price": 11700,
+    "max_price": 14300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "BLT샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "간장반후라이드반치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "간장치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "갈비치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자토스트": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "계란토스트": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마피자(씬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마피자(팬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "곱창떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치알컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치참치마요컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치참치컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "까르보나라떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "깐풍치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꼬마김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꼬막짬뽕": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "냉채족발": {
+    "base_price": 35000,
+    "min_price": 31500,
+    "max_price": 38500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "누드김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭가슴살샌드위치": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭갈비컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭다리간장치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭다리양념치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭다리후라이드치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭윙&닭다리간장치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭윙&닭다리양념치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭윙간장치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭윙양념치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭윙후라이드치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돈가스김밥": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "딸기샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "땅콩샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "땡초김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "땡초멸치김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "떡강정": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "로제돈가스": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "로제떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마늘치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마라떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마요치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "멸치김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "미니족발": {
+    "base_price": 35000,
+    "min_price": 31500,
+    "max_price": 38500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바질샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "반미샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "베이컨샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "베이컨치즈버거": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "베이컨토스트": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "베이컨포테이토피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "부대떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불고기버거": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불고기컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불고기피자(씬)": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불고기피자(팬)": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불닭마요컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "빨간참치김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우버거": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우볼": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우토스트": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우피자(씬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우피자(팬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살간장반후라이드반치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살간장치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살간장파닭": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살깐풍치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살로제치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살마늘치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살마요치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살양념반간장반치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살양념반후라이드반치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살양념치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살양념파닭": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살어니언치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살크림(크리미)치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살파닭": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살후라이드치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순살훈제양념치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "스팸김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "스팸김치컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "아보카도샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양념반간장반치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양념반후라이드반치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "어니언치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "에그마요샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "에그샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "옛날통닭": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우삼겹떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "유니짜장": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "유부우동": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "자장떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쟁반짜장": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쟁반짬뽕": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "전주비빔컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "제육컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쫄볶이": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "차돌떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "차돌짬뽕": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "참치마요덮밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "참치마요컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "참치샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "충무김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치아바타샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈라볶이": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈버거": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨마요덮밥": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨버거": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨토스트": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카레컵밥": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카야토스트": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "콤비네이션피자(씬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "콤비네이션피자(팬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크리스피치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림(크리미)치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "클럽샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "투움바떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "파닭": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "페퍼로니피자(씬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "페퍼로니피자(팬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "포테이토피자(씬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "포테이토피자(팬)": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "프렌치토스트": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "피자토스트": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "햄샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "햄에그샌드위치": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "햄치즈토스트": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "후라이드치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "훈제양념치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "훈제치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "가리비초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "간장달걀밥": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "간장닭갈비": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "갈비만두": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "갈비전골": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "갈비찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "갈치구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자수제비": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자옹심이": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "검은콩국수": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "게살볶음밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마돈가스": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마치즈돈가스": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고기국수": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고등어구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고추장불고기": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "곱도리탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "곱창쭈꾸미": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "광어매운탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "교자만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "국물닭발": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "굴국밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "굴비구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "굴비찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김피탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꼬막무침": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꼬막비빔밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꽁치구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꽁치김치찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "낙곱새": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "낙지덮밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "낙지전골": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "날치알주먹밥": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "날치알초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "납작만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "냉우동": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "노가리": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "다슬기해장국": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "단호박샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "단호박피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "달걀오믈렛": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "달걀초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭가슴살샐러드": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭가슴살스테이크": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭계장": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭내장볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭모래집볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭발볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "도리뱅뱅이": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돌솥비빔밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돼지간": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돼지두루치기": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돼지짜글이": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "두부두루치기": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "두부버섯전골": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "두부샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "들깨수제비": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "등갈비찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "떡만두라면": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "떡만둣국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "로제찜닭": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "로제치킨(뼈)": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "리코타치즈샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마약옥수수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "만두라면": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "만두전골": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "매생이국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "매생이굴국밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "먹태": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "메밀만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "메밀전": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "멸치국수": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "명태조림": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "명태찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "모둠순대": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "무뼈닭발": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "묵밥(묵사발)": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "묵은지갈비찜": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "묵은지감자탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "묵은지닭볶음탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "물밀면": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "민물새우튀김": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바지락된장찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바지락칼국수": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "버섯샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "버섯피자": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "버팔로윙": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불낙전골": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불백(뚝배기불고기)": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불족발": {
+    "base_price": 35000,
+    "min_price": 31500,
+    "max_price": 38500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "비빔막국수": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "비빔밀면": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "비프샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "빈대떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "빨계떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "삼선간짜장": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "삼치구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우장초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우튀김우동": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "생태찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "석갈비": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소고기간": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소고기초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소고기타다끼초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순대전골": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순두부짬뽕": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "시래기해장국": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "야끼만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "야채곱창볶음": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양평해장국": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "어니언링": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "어묵튀김": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "얼큰칼국수": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "연어롤": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "연어샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "연어회덮밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오돌뼈볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오징어순대": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "올갱이해장국": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우럭매운탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우럭초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우삼겹비빔밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "울면": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "육회초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "은행구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "잡채말이튀김": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "장어롤": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쟁반국수": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "전복버터구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "제육볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "조기구이": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "주꾸미삽겹살볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "진주냉면": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "차돌된장찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "찰순대": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "참소라초밥": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "천엽": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈곱창": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈달걀말이": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈닭갈비": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈스틱": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨너겟": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨샐러드": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "칠리새우": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "칠리새우덮밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "칼국수": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "캘리포니아롤": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "케이준샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "케이준양념감자": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "코다리냉면": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "코울슬로": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "콘샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "콩나물불고기(콩불)": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크레미롤": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림우동": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림함박스테이크": {
+    "base_price": 25000,
+    "min_price": 22500,
+    "max_price": 27500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "팥칼국수": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "편육": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "피자돈까스": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "함박스테이크": {
+    "base_price": 25000,
+    "min_price": 22500,
+    "max_price": 27500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해물뚝배기": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해물라면": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해물순두부찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황도": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "영양떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "망개떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "모시떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "모시송편": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "무지개떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "밤떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "빙떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소떡소떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "술떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쑥떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쑥버무리": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "씨앗호떡": {
+    "base_price": 2000,
+    "min_price": 1800,
+    "max_price": 2200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "앙금절편": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "약밥": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오메기떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "옥수수떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "콩떡": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "호떡": {
+    "base_price": 2000,
+    "min_price": 1800,
+    "max_price": 2200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "호박송편": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자고로케": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자핫도그": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "게살고로케": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "경주빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "경주찰보리빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "계란빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마식빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마케이크": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쿠키엔크림케이크": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고구마핫도그": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "글레이즈드도넛": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈볼": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "까눌레": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "깜빠뉴": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "깨찰빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "꽈배기": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "녹차롤케잌": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "녹차마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "녹차머핀": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "단팥빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "단팥크림빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "단호박크럼블": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "당근케이크": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "딸기롤케잌": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "딸기마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "딸기케이크": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "딸기크레이프": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "딸기크로와상": {
+    "base_price": 4500,
+    "min_price": 4050,
+    "max_price": 4950,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "딸기크로플": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "딸기타르트": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "러스크": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "레인보우케이크": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마늘바게트": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마늘빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "마들렌": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "말차까눌레": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "맘모스빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "머랭쿠키": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "메론빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "명란바게트": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "모짜렐라핫도그": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "모카번": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "민트초코마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "밀크크레이프": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바게트빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바나나와플": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바닐라마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바닐라머핀": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "바닐라아이스크림와플": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "밤식빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "피자호빵": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "버터크림빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불고기파니니": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "브라우니": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "블루베리마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "블루베리파이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "빨미까레": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "새우고로케": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "생딸기와플": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "생크림식빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "생크림와플": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "생크림케이크": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "생크림크로플": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소금빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소보루빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소세지크로와상": {
+    "base_price": 4500,
+    "min_price": 4050,
+    "max_price": 4950,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소시지고로케": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소시지빵": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "슈크림빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "슈크림크로와상": {
+    "base_price": 4500,
+    "min_price": 4050,
+    "max_price": 4950,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "시나몬롤": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "시나몬크로플": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "아몬드크로와상": {
+    "base_price": 4500,
+    "min_price": 4050,
+    "max_price": 4950,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "아이스크림와플": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "아이스크림크로플": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "앙버터치아바타": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "앙버터크로와상": {
+    "base_price": 4500,
+    "min_price": 4050,
+    "max_price": 4950,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "앙버터호두과자": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "애플크럼블": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "애플파이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "야채고로케": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "얼그레이까눌레": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "얼그레이마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "에그타르트": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "연유빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "연유크림빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오트밀식빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "옥수수빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "옥수수식빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "완두앙금빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우유마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우유식빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우유크림빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "인절미크로플": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "잡채고로케": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "젤리롤케잌": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "단팥호빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "찹쌀꽈배기": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "찹쌀도너츠": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "슈크림붕어빵": {
+    "base_price": 2000,
+    "min_price": 1800,
+    "max_price": 2200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코까눌레": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코롤케잌": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코머핀": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코베이글": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코소라빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코스콘": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코아이스크림와플": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코와플": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "팥붕어빵": {
+    "base_price": 2000,
+    "min_price": 1800,
+    "max_price": 2200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코케이크": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코크레이프": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코크로와상": {
+    "base_price": 4500,
+    "min_price": 4050,
+    "max_price": 4950,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코크로플": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코파운드": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치아바타": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈번": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈케이크": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치즈크로플": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카라멜마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카레고로케": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카스테라": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "야채호빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "커피콩빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쿠키슈": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "퀸아망": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크로칸슈": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크로크무슈": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림도넛": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림치즈베이글": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림치즈호두빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "통밀식빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "튀김소보루": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "티라미수": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "파네토네": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "플레인베이글": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "플레인스콘": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "플레인크로플": {
+    "base_price": 6000,
+    "min_price": 5400,
+    "max_price": 6600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "피자빵": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "핫도그": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "햄치즈베이글": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "햄치즈파니니": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "호두과자": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "호두빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "호두타르트": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "황치즈마카롱": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "후레쉬빵": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "휘낭시에": {
+    "base_price": 3500,
+    "min_price": 3150,
+    "max_price": 3850,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치낙지죽": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치죽": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "낙지죽": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "녹두죽": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "삼계전복죽": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쇠고기죽": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "참치죽": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "흑임자죽": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "브로콜리수프": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "쇠고기수프": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양송이수프": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "콘수프": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크림수프": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "뮤즐리시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "블루베리시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오레오시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오트밀시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "그래놀라시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭가슴살": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭가슴살소시지": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소시지(프랑크)": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "옥수수시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "아몬드시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "양념닭가슴살": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초코시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "크랜베리시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "핫바(어묵소시지)": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "후르츠링시리얼": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "훈제닭가슴살": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "훈제닭가슴살소시지": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "삼계탕": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "갈비탕": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "설렁탕": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "육개장": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "추어탕": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자탕": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "조개탕": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "된장찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순두부찌개": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "청국장": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "미역국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "콩나물국": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "짜장면": {
+    "base_price": 7500,
+    "min_price": 6750,
+    "max_price": 8250,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "짬뽕": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "탕수육": {
+    "base_price": 22000,
+    "min_price": 19800,
+    "max_price": 24200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "냉면": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "비빔냉면": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "막국수": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "우동": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "라면": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "파스타": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "비빔밥": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김치볶음밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "볶음밥": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "카레라이스": {
+    "base_price": 11000,
+    "min_price": 9900,
+    "max_price": 12100,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "김밥": {
+    "base_price": 4000,
+    "min_price": 3600,
+    "max_price": 4400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "떡볶이": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "순대": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "만두": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "삼겹살": {
+    "base_price": 16000,
+    "min_price": 14400,
+    "max_price": 17600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "삼겹살 구이": {
+    "base_price": 16000,
+    "min_price": 14400,
+    "max_price": 17600,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "불고기": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "소불고기": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돼지갈비": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭갈비": {
+    "base_price": 13000,
+    "min_price": 11700,
+    "max_price": 14300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "장어구이": {
+    "base_price": 35000,
+    "min_price": 31500,
+    "max_price": 38500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "연어구이": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돈까스": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "감자튀김": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "찜닭": {
+    "base_price": 28000,
+    "min_price": 25200,
+    "max_price": 30800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭볶음탕": {
+    "base_price": 28000,
+    "min_price": 25200,
+    "max_price": 30800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "갈치조림": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "고등어조림": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "두부조림": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "곱창전골": {
+    "base_price": 30000,
+    "min_price": 27000,
+    "max_price": 33000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "잡채": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "오징어볶음": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "족발": {
+    "base_price": 38000,
+    "min_price": 34200,
+    "max_price": 41800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "치킨": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "피자": {
+    "base_price": 22000,
+    "min_price": 19800,
+    "max_price": 24200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "햄버거": {
+    "base_price": 9000,
+    "min_price": 8100,
+    "max_price": 9900,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "샌드위치": {
+    "base_price": 7000,
+    "min_price": 6300,
+    "max_price": 7700,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "초밥": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "연어회": {
+    "base_price": 25000,
+    "min_price": 22500,
+    "max_price": 27500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "스테이크": {
+    "base_price": 25000,
+    "min_price": 22500,
+    "max_price": 27500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "야채 샐러드": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "닭가슴살 샐러드": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "수프": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "그릴 고기": {
+    "base_price": 20000,
+    "min_price": 18000,
+    "max_price": 22000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "전복죽": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "호박죽": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "시금치나물": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "깍두기": {
+    "base_price": 3000,
+    "min_price": 2700,
+    "max_price": 3300,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "파전": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "해물파전": {
+    "base_price": 15000,
+    "min_price": 13500,
+    "max_price": 16500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "송편": {
+    "base_price": 5000,
+    "min_price": 4500,
+    "max_price": 5500,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "타코": {
+    "base_price": 8000,
+    "min_price": 7200,
+    "max_price": 8800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "아침식사": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "브런치": {
+    "base_price": 18000,
+    "min_price": 16200,
+    "max_price": 19800,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "팬케이크": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "프렌치 토스트": {
+    "base_price": 10000,
+    "min_price": 9000,
+    "max_price": 11000,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "헬시볼": {
+    "base_price": 14000,
+    "min_price": 12600,
+    "max_price": 15400,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  },
+  "돼지불백": {
+    "base_price": 12000,
+    "min_price": 10800,
+    "max_price": 13200,
+    "currency": "KRW",
+    "unit": "1인분",
+    "region": "서울"
+  }
+}
