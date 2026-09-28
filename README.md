@@ -68,7 +68,7 @@
     <td>Flutter 앱 전 화면 구현 · FastAPI 서버와 REST API(49개) 설계·구현 · SQLite DB 설계 · 음식 분류 모델 학습 · 모델/NER/임베딩 추천 서버 연동</td>
   </tr>
   <tr>
-    <td align="center"><b>팀원</b><br><sub>ML</sub></td>
+    <td align="center"><b>송용후</b><br><sub>ML</sub></td>
     <td>음식 인식 모델 조사·선정 · 모델 학습</td>
   </tr>
   <tr>
