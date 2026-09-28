@@ -274,3 +274,12 @@ flutter run -d windows
 - [ ] **식단 점수** — 영양 비율 계산에서 탄수화물 대신 칼로리 합계를 사용하는 버그 수정
 - [ ] **보안** — 비밀번호 해시(bcrypt)·비밀번호 규칙·토큰 인증, 배포 서버 HTTPS 적용
 - [ ] **맛집 연동** — 대전광역시 음식점 정보 오픈 API로 추천 메뉴 → 실제 판매 식당 연결
+
+<br>
+
+<sub>
+<b>사진 출처</b> — 미리보기의 맞춤 추천 화면에 쓰인 음식 사진 (Wikimedia Commons)<br>
+불고기: <a href="https://commons.wikimedia.org/wiki/File:Bulgogi_(Marinated_beef._Served_with_rice)_-_Kogi_2023-09-11.jpg">Andy Li</a>, CC0 ·
+돼지불백: <a href="https://commons.wikimedia.org/wiki/File:Spicy_Pork_Bulgogi,_L%27Arbre_de_Sel,_Montparnasse,_Paris_001.jpg">Guilhem Vellut</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> (잘라서 사용) ·
+바지락된장찌개: <a href="https://commons.wikimedia.org/wiki/File:Doenjang-jjigae.jpg">jyleen21</a>, CC0
+</sub>
